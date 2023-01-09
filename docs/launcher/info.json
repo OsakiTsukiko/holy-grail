@@ -1,0 +1,12 @@
+{
+    "linux": {
+        "pck": "https://osakitsukiko.github.io/holy-grail/launcher/linux/holy_grail.pck",
+        "main_scene": "res://src/main/Main.tscn",
+        "version": "0.0.1"
+    },
+    "win": {
+        "pck": "https://osakitsukiko.github.io/holy-grail/launcher/win/holy_grail.pck",
+        "main_scene": "res://src/main/Main.tscn",
+        "version": "0.0.1"
+    }
+}
